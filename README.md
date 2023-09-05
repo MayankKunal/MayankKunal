@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@mayankk51264160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mayankk51264160" height="30" width="40" /></a>
+<a href="https://twitter.com/@mayankk51264160" target="blank"><img align="center" src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202307/x_twitter-sixteen_nine.jpg?size=1200:675" alt="@mayankk51264160" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayankkumar4647" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankkumar4647" height="30" width="40" /></a>
 <a href="https://instagram.com/mayank_kunal_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayank_kunal_22" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mayankkumarbokaro4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayankkumarbokaro4" height="30" width="40" /></a>
